@@ -1,0 +1,12 @@
+button{
+	height: 80px;
+	width: 80px;
+	border-radius: 8px;
+	font-size: 28px;
+	background-color: rgba(169, 169, 169, 0.655);
+	box-shadow: 2px;
+}
+
+button:disabled{
+	border-color: black;
+}
